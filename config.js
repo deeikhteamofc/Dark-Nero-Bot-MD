@@ -12,7 +12,7 @@ module.exports = {
  READ_MESSAGE : process.env. READ_MESSAGE  === undefined ?'true': process.env. READ_MESSAGE,
 AOTO_VOICS: process.env.AOTO_VOICS  === undefined ? 'false' : process.env.AOTO_VOICS, 
 YOU_LINK :  process.env.YOU_LINK  === undefined ? 'https://github.com/Kaveeshasithum' : process.env.YOU_LINK,
-OWENR_NO: process.env.OWENR_NO === undefined ? '94774071805' : process.env.OWENR_NO,
+OWENR_NO: process.env.OWENR_NO === undefined ? '94771540427' : process.env.OWENR_NO,
 ANTI_BAD: process.env.ANTI_BAD === undefined ? 'false' : process.env.ANTI_BAD,
 MAX_SIZE: 100,
 ONLY_GROUP: process.env.ONLY_GROUP === undefined ? 'false' : process.env.ONLY_GROUP,
